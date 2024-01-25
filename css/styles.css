@@ -114,31 +114,33 @@ footer p {
   font-size: 1rem;
   color: #333;
 }
-#about-me {
-  max-width: 800px;
+.about-me {
+  width: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
   margin: 0 auto 2rem auto;
   padding: 2rem;
 }
 
-#about-me h2 {
+.about-me h2 {
   font-size: 2rem;
   font-weight: bold;
   color: #333;
   margin-bottom: 1rem;
 }
 
-#about-me h3 {
+.about-me h3 {
   font-size: 1.5rem;
 font-weight: bold;
 color: #333;
 margin-bottom: 1rem;
 }
 
-#about-me p {
+.about-me p {
 margin-bottom: 1rem;
 }
 
-#about-me ul {
+.about-me ul {
 margin-bottom: 1rem;
 }
 
