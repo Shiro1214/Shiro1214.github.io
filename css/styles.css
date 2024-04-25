@@ -237,8 +237,8 @@ body,html {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 3vw;
-    justify-content: center;
+    gap: 4vw;
+    justify-content: space-around;
     border: thin solid #333232;
     padding: 1rem;
     border-radius: 1rem;

@@ -12,22 +12,16 @@ permalink: /
       <p>Hi! I'm HengLong, a Computer Science student in Hawaii,
         <br> and an aspiring to be fullstack developer.
       </p>
-      <a href="/contact" class="button">Get in touch</a>
+      <a href="#contactInfo" class="button">Get in touch</a>
     </section>
     <section id="about-me" class="hidden">
         <div class="about">
-            <h2>About Me</h2>
+            <h2>Profile</h2>
             <p>
-                My name is HengLong (Long) Sun, and I am a Cambodian junior student at Brigham Young University Hawaii, majoring in 
-                Computer Science, currently involved in many Web App development aspects at BYUH. I have been passionate about
-                programming since I was in high school, and I have been honing my skills
-                ever since.
+                I'm a Cambodian senior student at Brigham Young University Hawaii, majoring in Computer Science. He is currently involved in many aspects of Web App development at BYUH. His passion for programming began in high school, and he has been diligently honing his skills ever since.
             </p>
             <p>
-                I am an investigative and conventional person. I seek to improve myself as a person to better serve others through technology
-                and develop my programming/problem solving skills in my free time.
-                Would you rather laugh or cry through hard time?
-                I would rather laugh; living life with an optimistic and fun mindset is me and I seek to utilize my programming skills to make life more fun and convenient for others. 
+                Long is both investigative and conventional. He strives to improve himself as a person to better serve others through technology and spends his free time developing his programming and problem-solving skills. When faced with difficult times, Long prefers to laugh rather than cry, embodying an optimistic and fun mindset. He aims to use his programming skills to make life more enjoyable and convenient for others.
             </p>
         </div>
     </section>
@@ -101,7 +95,7 @@ permalink: /
         <div class="experience">
             <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
             <div>
-                <h3>EIS Student Developer</h3>
+                <h3>EIS Student Developer  (2023 - Present)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Developing, refactoring, and maintaining school Web Apps.</li>
@@ -118,7 +112,7 @@ permalink: /
         <div class="experience">
             <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
             <div>
-                <h3>Computer Science Tutor / TA</h3>
+                <h3>Computer Science Tutor / TA (2022 - 2023)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Increased efficiency by 20% through the development, refactoring, and maintenance of over 10 school Web Apps.</li>
@@ -130,7 +124,7 @@ permalink: /
         <div class="experience">
             <img alt="Polynesian Cultural Center" src="/res/PCC_logo.png">
             <div>
-                <h3>Box Office Sale Agent</h3>
+                <h3>Box Office Sale Agent (2021-2022)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Demonstrating great people skills through daily interactions with 50-60 tourists, assisting with various needs.</li>
@@ -146,7 +140,7 @@ permalink: /
         <div class="experience">
             <img alt="The Church of Jesus Christ of Latter-day Saints" src="/res/LDS_Logo.png">
             <div>
-                <h3>Self-Funded Volunteer in Australia, Melbourne</h3>
+                <h3>Self-Funded Volunteer in Australia, Melbourne (2019-2021)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Work 70-80 hour weeks for 22 months while following closely established guidelines and policies.</li>
