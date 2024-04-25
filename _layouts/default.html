@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/css/styles.css' | absolute_url }}">
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <h1><a href="{{ '/' | absolute_url }}">HengLong Sun</a></h1>
+            <ul class="nav-menu">
+                <li class ="nav-item"><a class = "nav-link" href="#hero">Home</a></li>
+                <li class ="nav-item"><a class = "nav-link" href="#about-me">About Me</a></li>
+                <li class ="nav-item"><a class = "nav-link" href="#project-section">Projects</a></li>
+                <li class ="nav-item"><a class = "nav-link" href="#contactInfo">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <div class="barline"></div>
+                <div class="barline"></div>
+                <div class="barline"></div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <script src="{{ '/scripts/index.js' | absolute_url }}"></script>
+    <footer>
+        © {{ site.time | date: '%Y' }} HengLong Sun. All Rights Reserved.
+    </footer>
+</body>
+</html>
