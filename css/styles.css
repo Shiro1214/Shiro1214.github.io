@@ -272,7 +272,14 @@ body,html {
 
   
   /* Project page styles */
+  #project-section a {
+    color: #41EAD4;
+    transition: all 0.2s ease
+  }
   
+  #project-section a:hover {
+    color: #fff;
+  }
   .project-card {
     display: flex;
     flex-direction: row;
@@ -361,8 +368,8 @@ body,html {
   }
   
   button[type="submit"] {
-    background-color: #0072c6;
-    color: #fff;
+    background-color: #41EAD4;
+    color: #0C0F0A;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     font-size: 1rem;
@@ -372,6 +379,7 @@ body,html {
   
   button[type="submit"]:hover {
     background-color: #005ea2;
+    color: #fff;
   }
   
   .contact-info {

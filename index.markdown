@@ -9,8 +9,7 @@ permalink: /
 <main>
     <section id="hero" class="visible hidden">
       <h2>Brief Bio</h2>
-      <p>Hi! I'm HengLong, a Computer Science student in Hawaii,
-        <br> and an aspiring to be fullstack developer.
+      <p>HengLong, a Computer Science student in at Brigham Young University–Hawaii, and an aspiring to be Fullstack-Developer.
       </p>
       <a href="#contactInfo" class="button">Get in touch</a>
     </section>
@@ -18,7 +17,7 @@ permalink: /
         <div class="about">
             <h2>Profile</h2>
             <p>
-                I'm a Cambodian senior student at Brigham Young University Hawaii, majoring in Computer Science. He is currently involved in many aspects of Web App development at BYUH. His passion for programming began in high school, and he has been diligently honing his skills ever since.
+                Long is an Cambodian senior student at Brigham Young University Hawaii, majoring in Computer Science. He is currently involved in many aspects of Web App development at BYUH. His passion for programming began in high school, and he has been diligently honing his skills ever since.
             </p>
             <p>
                 Long is both investigative and conventional. He strives to improve himself as a person to better serve others through technology and spends his free time developing his programming and problem-solving skills. When faced with difficult times, Long prefers to laugh rather than cry, embodying an optimistic and fun mindset. He aims to use his programming skills to make life more enjoyable and convenient for others.
@@ -206,8 +205,8 @@ permalink: /
         </div>
     </section>
     <section id="project-section" class="hidden">
-            <h2 class="section-title">My Personal Projects</h2>
-            <p>Check out my github repositories<a href="https://github.com/Shiro1214?tab=repositories" target="blank"> here</a>.</p>
+            <h2 class="section-title">Personal Projects</h2>
+            <p>visit <a href="https://github.com/Shiro1214?tab=repositories" target="blank">GitHub repositories</a>.</p>
             <br>
             <div class="project-card">
                 <div class="project-card-header">
@@ -232,7 +231,7 @@ permalink: /
     <section class="hidden">  
         <div class="project-card">
             <div class="project-card-header">
-                <iframe width=500rem height=300rem src="https://www.youtube.com/embed/sUQz9ARpOCg" title="Choice Android Studio Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/sUQz9ARpOCg" title="Choice Android Studio Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <img src="res/splashImgView.png" alt="Choice's poster">
             </div>
             <div class="project-card-body">
@@ -250,11 +249,11 @@ permalink: /
     <section class="hidden">  
         <div class="project-card">
             <div class="project-card-header">
-                <iframe width=500rem height = 300rem src="https://www.youtube.com/embed/rHrUoMsZp04" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/rHrUoMsZp04" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <div class="project-card-body">
                 <h3 class="project-title">Auto Budgetting</h3>
-                <p class="project-description">I was inspired by a friend of mine to build this script and since budgeting has never been easier ;).</p>
+                <p class="project-description">Long was inspired by a friend of his to build this script and since budgeting has never been easier ;).</p>
                 <div class="project-tech">
                     <span>Google Script ~ JavaScript</span>
                     <span>Algorithms</span>
@@ -273,7 +272,7 @@ permalink: /
             <div class="project-card-body">
                 <h3 class="project-title">Huffman Encoding and Decoding Project</h3>
                 <p class="project-description">A notable research assignment
-                    I worked on and got 1st place in speed performance compared to the rest of the class.</p>
+                    Long worked on and got 1st place in speed performance compared to the rest of the class.</p>
                 <div class="project-tech">
                     <span>C++</span>
                     <span>Algorithms</span>
@@ -287,11 +286,11 @@ permalink: /
     <section class="hidden">  
         <div class="project-card">
             <div class="project-card-header">
-                <iframe width=500rem height = 300rem src="https://www.youtube.com/embed/G0V-cgYv308" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/G0V-cgYv308" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <div class="project-card-body">
                 <h3 class="project-title">Ninja Mission</h3>
-                <p class="project-description">A fun and addictive game I created using Java and Android Studio. The objective is to solve simple arithmetic math problems intutively.</p>
+                <p class="project-description">A fun and addictive game Long created using Java and Android Studio. The objective is to solve simple arithmetic math problems intutively.</p>
                 <div class="project-tech">
                     <span>Java</span>
                     <span>Android Studio</span>
@@ -307,7 +306,7 @@ permalink: /
             </div>
             <div class="project-card-body">
                 <h3 class="project-title">ICPC Pacific Northwest Coding Competition</h3>
-                <p class="project-description">A coding tournament I participated on with a team to solve 13 problems in 5 hours. Our team was placed 3rd place in Hawaii and 20th out of 50 teams within the United State and Canada</p>
+                <p class="project-description">A coding tournament Long participated on with a team to solve 13 problems in 5 hours. His team was placed 3rd place in Hawaii and 20th out of 50 teams within the United State and Canada</p>
                 <div class="project-tech">
                     <span>Java</span>
                     <span>Algorithms</span>
@@ -319,11 +318,11 @@ permalink: /
     <section class='hidden'>
         <div class="project-card">
             <div class="project-card-header">
-                <iframe width=500rem height = 300rem src="https://www.youtube.com/embed/SCZPpETt7fc" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/SCZPpETt7fc" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <div class="project-card-body">
                 <h3 class="project-title">Finding Longest Common Subsequence Java</h3>
-                <p class="project-description">Inspired by LCS solving C++ project in my CS301 class, I build upon the idea implementing Java GUI to make a user friendly, interactive practice LCS program.</p>
+                <p class="project-description">Inspired by LCS solving C++ project in my CS301 class, Long built upon the idea implementing Java GUI to make a user friendly, interactive practice LCS program.</p>
                 <div class="project-tech">
                     <span>Java</span>
                     <span>Algorithms</span>
@@ -336,8 +335,8 @@ permalink: /
     <section id="contactInfo" class="hidden">
         <div class = "contactSection">
             <div class="contact-info">
-                <h1>Contact Me</h1>
-                <p>Send me a message using the form below or reach out to me via email or social media.</p>
+                <h1>Contact</h1>
+                <p>Send Long a message using the form below or reach out to him via email or social media.</p>
             </div>
             <form action="https://formsubmit.co/shiroinhawai@go.byuh.edu" method="POST">
                 <input type="hidden" name="_captcha" value="false">
