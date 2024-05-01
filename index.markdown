@@ -244,7 +244,34 @@ permalink: /
             <h2 class="section-title">Personal Projects</h2>
             <p style="text-align: center;">Here are a few of the projects Long has worked in his downtime. Keep scrolling down to see more. To visit his Github repo, click <a href="https://github.com/Shiro1214?tab=repositories" target="blank">here</a>.</p>
             <br>
-            <div class="project-card">  
+            <div class="project-card">
+            <div class="project-card-header">
+                <iframe src="https://www.youtube.com/embed/__7DQPIJeSU?si=iA2DQMxGpxhWI4fj" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <div class="project-card-body">
+                <h3 class="project-title">Plaid integrated Budget App</h3>
+                <p class="project-description">A demo video of a budget web app that I'm building, mostly for personal use. It uses PLAID api to fetch transactions then transform and display them through a React app.</p>
+                <div class="project-tech">
+                    <span>React JS</span>
+                    <span>Node JS</span>
+                    <span>Express framework</span>
+                    <span>MUI Material</span>
+                    <span>PLAID's REST APIs</span>
+                </div>
+            </div>
+        </div>
+            <a class="scroll-link" href="#project7">
+            <div id="mouse-scroll">
+                <div>
+                    <span class="down-arrow-1"></span>
+                    <span class="down-arrow-2"></span>
+                    <span class="down-arrow-3"></span>
+                </div>
+            </div>
+        </a>
+    </section>
+    <section id="project7"  class='hidden'>
+        <div class="project-card">  
                 <div class="project-card-header">
                     <img src="res/RecRefine1.PNG" alt="Screenshot of WebApp-1">
                     <img src="res/RecRefine2.PNG" alt="Screenshot of WebApp-2">
@@ -263,7 +290,7 @@ permalink: /
                     </div>
                 </div>
             </div>
-            <a class="scroll-link" href="#project6">
+        <a class="scroll-link" href="#project6">
             <div id="mouse-scroll">
                 <div>
                     <span class="down-arrow-1"></span>
