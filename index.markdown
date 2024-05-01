@@ -9,7 +9,7 @@ permalink: /
 <main>
     <section id="hero" class="visible hidden">
       <h2>Brief Bio</h2>
-      <p>HengLong, a Computer Science student in at Brigham Young University–Hawaii, and an aspiring to be Fullstack-Developer.
+      <p>HengLong, a Computer Science student at Brigham Young University–Hawaii, and an aspiring to be Fullstack-Developer.
       </p>
       <a href="#about-me" class="button">Learn more</a>
     </section>
@@ -17,10 +17,10 @@ permalink: /
         <div class="about">
             <h2>Profile</h2>
             <p>
-                Long is an Cambodian senior student at Brigham Young University Hawaii, majoring in Computer Science. He is currently involved in many aspects of Web App development at BYUH. His passion for programming began in high school, and he has been diligently honing his skills ever since.
+                Long is a distinguished senior Computer Science student at Brigham Young University Hawaii, with a flawless academic record and additional minors in Entrepreneurship and Communication. Previously a teaching assistant, he simplified complex Data structures and algorithms, aiding peers in mastering technologies such as Object-Oriented Programming. Currently, Long contributes as a student developer on BYU-H Campus, focusing on web development with Mendix for front end, ASP .NET Core for backend, and Peoplesoft Database, Workday reports, Canvas Instructor APIs, REST APIs, etc.
             </p>
             <p>
-                Long is both investigative and conventional. He strives to improve himself as a person to better serve others through technology and spends his free time developing his programming and problem-solving skills. When faced with difficult times, Long prefers to laugh rather than cry, embodying an optimistic and fun mindset. He aims to use his programming skills to make life more enjoyable and convenient for others.
+                Passionate about continuous learning and technology, Long spends his personal time exploring new frameworks like React and building innovative applications. This portfolio showcases versatile projects, including web applications for budget management and recipe sharing, as well as an educational mobile game that combines math learning with entertainment. Committed to leveraging his technical expertise, Long aims to devise practical, user-centered solutions that address real-world challenges. 
             </p>
         </div>
         <a class="scroll-link" href="#skills">
@@ -132,7 +132,7 @@ permalink: /
                 <h3>Computer Science Tutor / TA (2022 - 2023)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
-                    <li>Increased efficiency by 20% through the development, refactoring, and maintenance of over 10 school Web Apps.</li>
+                    <li>Helping 75-100 students each month to better understand programming concepts, data structures & algorithms, and enhancing their problem solving skills.</li>
                     <li>Explaining programming concepts such as Object-Oriented Programming, Python, Complexity, and Data Structures and Algorithms.</li>
                     <li>Grade 80-100 works based on rubric requirements and addressing student concerns weekly.</li>
                 </ul>
