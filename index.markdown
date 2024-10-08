@@ -108,21 +108,44 @@ permalink: /
         </a>
     </section>
     <section id="experiences" class="hidden">
-        <h2>Experiences</h2>    
+        <h2>Experiences</h2>
+        <div class="experience">
+            <img alt="FamilySearch" src="/res/fs_logo.png">
+            <div>
+                <h3>Software Developer Intern (Backend)</h3>
+                <h4>Responsibilities</h4>
+                <ul>
+                    <li>Took the initiative to learn and implement new technologies.</li>
+                    <li>Implement and refactor rest API endpoints.</li>
+                    <li>Develop adaptable code for diverse use cases.</li>
+                    <li>Migrated CI/CD processes of 5+ services from CloudBees to GitHub Workflows.</li>
+                    <li>Implemented cohesive acceptance tests to ensure code quality.</li>
+                    <li>Researched and documented how-to improve authentication for future reference.</li>
+                </ul>
+                <h4>Achievements</h4>
+                <ul>
+                    <li>Improved testing suite to over 85%.</li>
+                    <li>Reduced deployment time and costs by migrating to GitHub Workflows.</li>
+                </ul>
+            </div>
+        </div>    
         <div class="experience">
             <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
             <div>
                 <h3>EIS Student Developer  (2023 - Present)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
-                    <li>Developing, refactoring, and maintaining school Web Apps.</li>
-                    <li>Implementing back-end services with ASP.net core and building front-end applications with React JS and Mendix.</li>
-                    <li>Writing unit tests, reviewing pull-requests, and providing training to optimize Web App performance.</li>
-                    <li>Collaborating weekly with other developers and stakeholders to build Web Apps incrementally and iteratively.</li>
+                    <li>Implement front-end applications via Mendix.</li>
+                    <li>Implement back-end web APIs services using ASP.NET Core.</li>
+                    <li>Troubleshoots, resolves errors and refactors over 10 web applications.</li>
+                    <li>Provides support, technical assistance, and/or training to end-users.</li>
                 </ul>
                 <h4>Achievements</h4>
                 <ul>
-                    <li>Increased efficiency by 20% through the development, refactoring, and maintenance of over 10 school Web Apps.</li>
+                    <li>Migrate LDAP from window supported only to all platform supported.</li>
+                    <li>Speed up Student English Test Registration and Enrollment process with 1-click solution.</li>
+                    <li>Implement web services to serve data, freeing up in app memory by 80%.</li>
+                    <li>Implement user friendly solutions for various technical requirement using Mendix.</li>
                 </ul>
             </div>
         </div>
@@ -161,11 +184,12 @@ permalink: /
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Work 70-80 hour weeks for 22 months while following closely established guidelines and policies.</li>
-                    <li>Trained more than 15-25 individuals monthly on performance skills, tracking goals and confirming outcomes while increasing productivity each month.</li>
+                    <li>Trained more than 10-15 individuals monthly on performance skills, tracking goals and confirming outcomes while increasing productivity each month.</li>
                     <li>Planned, organized, and taught weekly workshops on goal setting, relationship building, and leadership skills.</li>
                     <li>Organized and submitted effective Weekly reports to a direct supervisor and concise monthly reports to an executive. These reports were directly used to effectively make strategic decisions for the organization.</li>
-                    <li>Self-taught a foreign language through independent study</li>
-                    <li>Completed more than 10+ community service hours per week.</li>
+                    <li>Self-taught English and Vietnamese languages through independent study.</li>
+                    <li>Completed more than 5 community service hours per week.</li>
+                    <li>Engaged with over 20 individuals daily, both in-person and through social media platforms, to initiate conversations, capture contact information, and schedule follow-up meetings to present and promote product offerings.</li>
                 </ul>
             </div>
         </div>
