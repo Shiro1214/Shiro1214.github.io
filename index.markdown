@@ -110,9 +110,40 @@ permalink: /
     <section id="experiences" class="hidden">
         <h2>Experiences</h2>
         <div class="experience">
+            <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
+            <div>
+                <h3>EIS Student Developer (2023 - Present)</h3>
+                <h4>Responsibilities</h4>
+                <ul>
+                    <li>Implement front-end applications via Mendix.</li>
+                    <li>Implement back-end web APIs services using ASP.NET Core.</li>
+                    <li>Troubleshoots, resolves errors and refactors over 10 web applications.</li>
+                    <li>Provides support, technical assistance, and/or training to end-users.</li>
+                </ul>
+                <h4>Achievements</h4>
+                <ul>
+                    <li>Migrated LDAP web services to support multi-platform environments, including Linux, improving system flexibility.</li>
+                    <li>Developed a 1-click solution for English test registrations and record keeping, increasing operational efficiency.</li>
+                    <li>Automated workflows by integrating Box APIs, increasing staff productivity by 100x.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="experience">
+            <img alt="Accessifiers" src="/res/accessifiers.png">
+            <div>
+                <h3>Android Developer Intern (Sep 2024 - Dec 2024)</h3>
+                <h4>Responsibilities & Achievements</h4>
+                <ul>
+                    <li>Customized and deployed an Open edX instance on Azure Linux Virtual Machine for organizational use.</li>
+                    <li>Integrated Microsoft Single Sign-On (SSO) into Android applications, enhancing user authentication options.</li>
+                    <li>Successfully branded and published a customized Open edX Android app on the Google Play Store for testing.</li>
+                </ul>
+            </div>
+        </div>  
+        <div class="experience">
             <img alt="FamilySearch" src="/res/fs_logo.png">
             <div>
-                <h3>Software Developer Intern (Backend)</h3>
+                <h3>Software Developer Intern - Backend (Jun 2024 - Sep 2024)</h3>
                 <h4>Responsibilities</h4>
                 <ul>
                     <li>Took the initiative to learn and implement new technologies.</li>
@@ -132,28 +163,8 @@ permalink: /
         <div class="experience">
             <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
             <div>
-                <h3>EIS Student Developer  (2023 - Present)</h3>
-                <h4>Responsibilities</h4>
-                <ul>
-                    <li>Implement front-end applications via Mendix.</li>
-                    <li>Implement back-end web APIs services using ASP.NET Core.</li>
-                    <li>Troubleshoots, resolves errors and refactors over 10 web applications.</li>
-                    <li>Provides support, technical assistance, and/or training to end-users.</li>
-                </ul>
-                <h4>Achievements</h4>
-                <ul>
-                    <li>Migrate LDAP from window supported only to all platform supported.</li>
-                    <li>Speed up Student English Test Registration and Enrollment process with 1-click solution.</li>
-                    <li>Implement web services to serve data, freeing up in app memory by 80%.</li>
-                    <li>Implement user friendly solutions for various technical requirement using Mendix.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="experience">
-            <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
-            <div>
                 <h3>Computer Science Tutor / TA (2022 - 2023)</h3>
-                <h4>Responsibilities</h4>
+                <h4>Responsibilities & Achievements</h4>
                 <ul>
                     <li>Helping 75-100 students each month to better understand programming concepts, data structures & algorithms, and enhancing their problem solving skills.</li>
                     <li>Explaining programming concepts such as Object-Oriented Programming, Python, Complexity, and Data Structures and Algorithms.</li>
@@ -181,7 +192,7 @@ permalink: /
             <img alt="The Church of Jesus Christ of Latter-day Saints" src="/res/LDS_Logo.png">
             <div>
                 <h3>Self-Funded Volunteer in Australia, Melbourne (2019-2021)</h3>
-                <h4>Responsibilities</h4>
+                <h4>Responsibilities & Achievements</h4>
                 <ul>
                     <li>Work 70-80 hour weeks for 22 months while following closely established guidelines and policies.</li>
                     <li>Trained more than 10-15 individuals monthly on performance skills, tracking goals and confirming outcomes while increasing productivity each month.</li>
@@ -266,9 +277,34 @@ permalink: /
     </section>
     <section id="project-section" class="hidden">
             <h2 class="section-title">Personal Projects</h2>
-            <p style="text-align: center;">Here are a few of the projects Long has worked in his downtime. Keep scrolling down to see more. To visit his Github repo, click <a href="https://github.com/Shiro1214?tab=repositories" target="blank">here</a>.</p>
+            <p style="text-align: center;">Here are a few of the projects Long has worked in his downtime. Keep scrolling to see more. To visit his Github repos, click <a href="https://github.com/Shiro1214?tab=repositories" target="blank">here</a>.</p>
             <br>
             <div class="project-card">
+                <div class="project-card-header">
+                    <iframe src="https://youtu.be/q5vhKS_4aD8?si=r3aIdHWnOwyoEE1G" title="Quick Maikai Points Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+                <div class="project-card-body">
+                    <h3 class="project-title">Quick Maikai Points</h3>
+                    <p class="project-description">I built a simple web app that automates filling out the form, letting you skip straight to the survey for bonus Maikai Point by just submitting a picture of your foodland receipt (this is very easy on mobile upload).</p>
+                    <div class="project-tech">
+                        <span>React JS</span>
+                        <span>Express JS</span>
+                        <span>Mindee OCR Custom REST API</span>
+                    </div>
+                </div>
+            </div>
+        <a class="scroll-link" href="#project8">
+            <div id="mouse-scroll">
+                <div>
+                    <span class="down-arrow-1"></span>
+                    <span class="down-arrow-2"></span>
+                    <span class="down-arrow-3"></span>
+                </div>
+            </div>
+        </a>
+    </section>
+    <section id="project8"  class='hidden'>
+        <div class="project-card">
             <div class="project-card-header">
                 <iframe src="https://www.youtube.com/embed/__7DQPIJeSU?si=iA2DQMxGpxhWI4fj" title="Practice Finding Longest Common Subsequence between 2 strings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
@@ -284,7 +320,7 @@ permalink: /
                 </div>
             </div>
         </div>
-            <a class="scroll-link" href="#project7">
+        <a class="scroll-link" href="#project7">
             <div id="mouse-scroll">
                 <div>
                     <span class="down-arrow-1"></span>

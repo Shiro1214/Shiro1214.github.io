@@ -16,10 +16,10 @@ document.addEventListener('DOMContentLoaded', function() {
         elements.forEach(element => {
             const elementTop = element.getBoundingClientRect().top;
             const sectionId = element.id;
-            const navItem = sectionId.slice(0,7) === "project" ? document.getElementById("project-section-nav"): document.getElementById(`${sectionId}-nav`);
+            const navItem = sectionId.slice(0,8) === "project" ? document.getElementById("project-section-nav"): document.getElementById(`${sectionId}-nav`);
             // revealing
             if (elementTop < windowHeight - revealPoint) {
-                console.log(sectionId.slice(0,7));
+                console.log(sectionId.slice(0,8));
                 element.classList.add('visible');
                 console.log(sectionId);
                 console.log(navItem);
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 navItem.classList.remove('activeNav');
             }
             // revealed
-            if (elementTop < -windowHeight + 200 && sectionId.slice(0,7) !== "project"){
+            if (elementTop < -windowHeight + 200 && sectionId.slice(0,8) !== "project"){
                 if (navItem != null) 
                 navItem.classList.remove('activeNav');
             }else if (elementTop < -windowHeight + 200 && sectionId === "project1"){
