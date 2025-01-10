@@ -281,7 +281,7 @@ permalink: /
             <br>
             <div class="project-card">
                 <div class="project-card-header">
-                    <iframe src="https://youtu.be/q5vhKS_4aD8?si=r3aIdHWnOwyoEE1G" title="Quick Maikai Points Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/q5vhKS_4aD8?si=EH8B5zHLoMFW_sVL" title="Quick Maikai Points Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div class="project-card-body">
                     <h3 class="project-title">Quick Maikai Points</h3>
