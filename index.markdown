@@ -61,6 +61,10 @@ permalink: /
                 <p>MySql</p>
             </div>
             <div class="skill">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+                <p>Oracle</p>
+            </div>
+            <div class="skill">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
                 <p>Mongoose</p>
             </div>
@@ -81,6 +85,14 @@ permalink: /
                 <p>.NET Core</p>
             </div>
             <div class="skill">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+                <p>SpringBoot</p>
+            </div>
+            <div class="skill">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+                <p>AWS</p>
+            </div>
+            <div class="skill">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
                 <p>Ruby On Rails</p>
             </div>
@@ -95,6 +107,14 @@ permalink: /
             <div class="skill">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
                 <p>C</p>
+            </div>
+            <div class="skill">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+                <p>Docker</p>
+            </div>
+            <div class="skill">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+                <p>Linux</p>
             </div>
         </div>
         <a class="scroll-link" href="#experiences">
