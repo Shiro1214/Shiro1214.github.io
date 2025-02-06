@@ -9,7 +9,7 @@ permalink: /
 <main>
     <section id="hero" class="visible hidden">
       <h2>Brief Bio</h2>
-      <p>HengLong, a Computer Science student at Brigham Young University–Hawaii, and an aspiring to be Fullstack-Developer.
+      <p>HengLong, a Computer Science student at Brigham Young University–Hawaii, and an aspiring to be Full-Stack Developer.
       </p>
       <a href="#about-me" class="button">Learn more</a>
     </section>
@@ -17,10 +17,7 @@ permalink: /
         <div class="about">
             <h2>Profile</h2>
             <p>
-                Long is a distinguished senior Computer Science student at Brigham Young University Hawaii, with a flawless academic record and additional minors in Entrepreneurship and Communication. Previously a teaching assistant, he simplified complex Data structures and algorithms, aiding peers in mastering technologies such as Object-Oriented Programming. Currently, Long contributes as a student developer on BYU-H Campus, focusing on web development with Mendix for front end, ASP .NET Core for backend, and Peoplesoft Database, Workday reports, Canvas Instructor APIs, REST APIs, etc.
-            </p>
-            <p>
-                Passionate about continuous learning and technology, Long spends his personal time exploring new frameworks like React and building innovative applications. This portfolio showcases versatile projects, including web applications for budget management and recipe sharing, as well as an educational mobile game that combines math learning with entertainment. Committed to leveraging his technical expertise, Long aims to devise practical, user-centered solutions that address real-world challenges. 
+                Detail-oriented and value-driven Software Developer with experience in full-stack development, cloud computing (AWS), and database management. Skilled in designing and improving web applications and APIs, with a strong record of enhancing system efficiency and user experience. Proficient in Java, C#, Python, JavaScript, and frameworks such as React, Spring Boot, and ASP.NET Core. A quick learner with strong problem-solving abilities, leadership experience, and a passion for building scalable, user-friendly solutions that create lasting impact and drive efficiency.
             </p>
         </div>
         <a class="scroll-link" href="#skills">
@@ -132,19 +129,14 @@ permalink: /
         <div class="experience">
             <img alt="Brigham Young University–Hawaii" src="/res/byuh_logo.png">
             <div>
-                <h3>EIS Student Developer (2023 - Present)</h3>
-                <h4>Responsibilities</h4>
+                <h3>EIS Associate Developer (2023 - Present)</h3>
+                <h4>Responsibilities & Achievements</h4>
                 <ul>
-                    <li>Implement front-end applications via Mendix.</li>
-                    <li>Implement back-end web APIs services using ASP.NET Core.</li>
-                    <li>Troubleshoots, resolves errors and refactors over 10 web applications.</li>
-                    <li>Provides support, technical assistance, and/or training to end-users.</li>
-                </ul>
-                <h4>Achievements</h4>
-                <ul>
-                    <li>Migrated LDAP web services to support multi-platform environments, including Linux, improving system flexibility.</li>
-                    <li>Developed a 1-click solution for English test registrations and record keeping, increasing operational efficiency.</li>
-                    <li>Automated workflows by integrating Box APIs, increasing staff productivity by 100x.</li>
+                    <li>Designed, optimized, and deployed 10+ web applications and APIs for students and faculty using Mendix and ASP.NET Core.</li>
+                    <li>Customized web app functionalities with Java, JavaScript, and CSS on the Mendix low-code platform.</li>
+                    <li>Migrated LDAP web services for multi-platform environments, including Linux, via Directory Services Protocols .NET API.</li>
+                    <li>Automated Box user de-provisioning workflows, increasing operational efficiency by 1000%.</li>
+                    <li>Developed an English test enrollment web app using ASP.NET Web API and Mendix, boosting efficiency by 1000%.</li>
                 </ul>
             </div>
         </div>
@@ -154,9 +146,11 @@ permalink: /
                 <h3>Android Developer Intern (Sep 2024 - Dec 2024)</h3>
                 <h4>Responsibilities & Achievements</h4>
                 <ul>
-                    <li>Customized and deployed an Open edX instance on Azure Linux Virtual Machine for organizational use.</li>
-                    <li>Integrated Microsoft Single Sign-On (SSO) into Android applications, enhancing user authentication options.</li>
-                    <li>Successfully branded and published a customized Open edX Android app on the Google Play Store for testing.</li>
+                    <li>Researched and documented 5+ Open edX Tutor features to support LMS platform needs.</li>
+                    <li>Deployed a customized Open edX instance on an Azure Linux VM for organizational use.</li>
+                    <li>Integrated Microsoft Single Sign-On (SSO) into Android applications for enhanced authentication.</li>
+                    <li>Published a branded Open edX Android app using Kotlin on the Google Play Store.</li>
+                    <li>Organized weekly meetings and follow-ups to ensure project alignment.</li>
                 </ul>
             </div>
         </div>  
@@ -164,19 +158,13 @@ permalink: /
             <img alt="FamilySearch" src="/res/fs_logo.png">
             <div>
                 <h3>Software Developer Intern - Backend (Jun 2024 - Sep 2024)</h3>
-                <h4>Responsibilities</h4>
+                <h4>Responsibilities & Achievements</h4>
                 <ul>
-                    <li>Took the initiative to learn and implement new technologies.</li>
-                    <li>Implement and refactor rest API endpoints.</li>
-                    <li>Develop adaptable code for diverse use cases.</li>
-                    <li>Migrated CI/CD processes of 5+ services from CloudBees to GitHub Workflows.</li>
-                    <li>Implemented cohesive acceptance tests to ensure code quality.</li>
-                    <li>Researched and documented how-to improve authentication for future reference.</li>
-                </ul>
-                <h4>Achievements</h4>
-                <ul>
-                    <li>Improved testing suite to over 85%.</li>
-                    <li>Reduced deployment time and costs by migrating to GitHub Workflows.</li>
+                    <li>Developed and optimized 10+ REST API endpoints using Spring Boot, Java, and PostgreSQL, improving response time.</li>
+                    <li>Migrated CI/CD pipelines from CloudBees to GitHub Workflows, reducing AWS deployment time by 30%.</li>
+                    <li>Increased test coverage to 85% with JUnit 5, enhancing system reliability.</li>
+                    <li>Troubleshot CI/CD deployments on AWS EC2 instances and resolved acceptance test failures.</li>
+                    <li>Researched and documented a service refactoring plan, improving future development efficiency by 50%.</li>
                 </ul>
             </div>
         </div>    
@@ -186,9 +174,9 @@ permalink: /
                 <h3>Computer Science Tutor / TA (2022 - 2023)</h3>
                 <h4>Responsibilities & Achievements</h4>
                 <ul>
-                    <li>Helping 75-100 students each month to better understand programming concepts, data structures & algorithms, and enhancing their problem solving skills.</li>
-                    <li>Explaining programming concepts such as Object-Oriented Programming, Python, Complexity, and Data Structures and Algorithms.</li>
-                    <li>Grade 80-100 works based on rubric requirements and addressing student concerns weekly.</li>
+                    <li>Assisted 75–100 students monthly in understanding programming concepts, data structures, and algorithms.</li>
+                    <li>Provided feedback and grading for 80–100 assignments weekly while addressing student concerns.</li>
+                    <li>Taught core concepts such as Object-Oriented Programming, Python, and algorithmic problem-solving.</li>
                 </ul>
             </div>
         </div>
@@ -196,15 +184,13 @@ permalink: /
             <img alt="Polynesian Cultural Center" src="/res/PCC_logo.png">
             <div>
                 <h3>Box Office Sale Agent (2021-2022)</h3>
-                <h4>Responsibilities</h4>
+                <h4>Responsibilities & Achievements</h4>
                 <ul>
-                    <li>Demonstrating great people skills through daily interactions with 50-60 tourists, assisting with various needs.</li>
-                    <li>Planning, setting goals, and tracking monthly progress to improve team performance in sales.</li>
-                </ul>
-                <h4>Achievements</h4>
-                <ul>
-                    <li>Achieved the highest sales position with $25-30k/month through enthusiastic services.</li>
-                    <li>Improved team performance in sales by 30% through effective planning, goal setting, and progress tracking.</li>
+                    <li>Achieved top sales record, generating $25K-$30K/month by serving 50-60 tourists daily.</li>
+                    <li>Improved team performance by 30% through planning, goal setting, and tracking.</li>
+                    <li>Trained 6+ agents on customer service and sales best practices.</li>
+                    <li>Assisted in ticket scanning for 3+ venues and resolved customer issues.</li>
+                    <li>Coordinated 4+ transportation departures daily for 2000+ guests.</li>
                 </ul>
             </div>
         </div>
