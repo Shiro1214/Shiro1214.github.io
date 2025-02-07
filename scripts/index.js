@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', function() {
             const navItem = sectionId.slice(0,8) === "project" ? document.getElementById("project-section-nav"): document.getElementById(`${sectionId}-nav`);
             // revealing
             if (elementTop < windowHeight - revealPoint) {
-                console.log(sectionId.slice(0,8));
+                //console.log(sectionId.slice(0,8));
                 element.classList.add('visible');
-                console.log(sectionId);
-                console.log(navItem);
+                //console.log(sectionId);
+                //console.log(navItem);
                 if (navItem != null) 
                 navItem.classList.add('activeNav');
             }
