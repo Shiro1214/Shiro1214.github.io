@@ -227,7 +227,7 @@ permalink: /
             <div>
                 <h3>BS in Computer Science</h3>
                 <h4>Brigham Young University–Hawaii</h4>
-                <em>2025</em>
+                <em>Summa cum laude Graduate</em>
                 <ul>
                     <li>Major: Computer Science</li>
                     <li>Minor: Communication, Media and Culture</li>
@@ -247,26 +247,6 @@ permalink: /
                 <img alt="Brigham Young University–Hawaii" src="/res/DOMO_Logo.png">
                 <div>
                     <h3>DOMO DataSpecialist level 1</h3>
-                </div>
-            </div>
-        </div>
-        <div class = "experience">
-            <div class="certificate">
-                <img alt="2024 D1 ICPC Hawaii Site Champion Award" src="/res/2024ICPCChampion.jpg">
-                <div>
-                    <h3>2024 ICPC Division 1 Hawaii Site Champion</h3>
-                </div>
-            </div>
-            <div class="certificate">
-                <img alt="2023 D2 ICPC Hawaii Site Champion Award" src="/res/ICPC2023Award.jpg">
-                <div>
-                    <h3>2023 ICPC Division 2 Hawaii Site Champion</h3>
-                </div>
-            </div>
-            <div class="certificate">
-                <img alt="2024 ICPC Hawaii Site Award" src="/res/ICPC_Award.jpg">
-                <div>
-                    <h3>2022 ICPC Division 2 Hawaii Site Silver Medal</h3>
                 </div>
             </div>
         </div>
@@ -332,11 +312,12 @@ permalink: /
     <section id="project9" class="hidden">  
         <div class="project-card">
             <div class="project-card-header">
-                <img src="res/2024ICPCChampion.jpg" alt="Picture of my award">
-                <img src="res/ICPC2024Team.jpg" alt="Picture of my team name tags">
+                <img src="res/2024ICPCChampion.jpg" alt="Picture of my 2024 award">
+                <img src="res/ICPC2024Team.jpg" alt="Picture of my 2024 team name tags">
+                <img src="res/ICPC2023Award.jpg" alt="Picture of my 2023 award">
             </div>
             <div class="project-card-body">
-                <h3 class="project-title">2024 ICPC Division 1 Hawaii Site Champion</h3>
+                <h3 class="project-title">2023-2024 ICPC Division 1 & 2 Hawaii Site Champion</h3>
                 <p class="project-description">A coding tournament Long participated on with a team to solve 13 problems in 5 hours. His team was placed 1st place in Hawaii and 20th out of 50 teams within the United State and Canada</p>
                 <div class="project-tech">
                     <span>Python</span>
