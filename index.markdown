@@ -7,18 +7,15 @@ title: HengLong Sun
 permalink: /
 ---
 <main>
-    <section id="hero" class="visible hidden">
-      <h2>Brief Bio</h2>
-      <p>HengLong, a Computer Science student at Brigham Young University–Hawaii, and an aspiring to be Full-Stack Developer.
-      </p>
-      <a href="#about-me" class="button">Learn more</a>
-    </section>
-    <section id="about-me" class="hidden">
+    <section id="about-me" class="visible hidden">
         <div class="about">
             <h2>Profile</h2>
-            <p>
-                Detail-oriented and value-driven Software Developer with experience in full-stack development, cloud computing (AWS), and database management. Skilled in designing and improving web applications and APIs, with a strong record of enhancing system efficiency and user experience. Proficient in Java, C#, Python, JavaScript, and frameworks such as React, Spring Boot, and ASP.NET Core. A quick learner with strong problem-solving abilities, leadership experience, and a passion for building scalable, user-friendly solutions that create lasting impact and drive efficiency.
-            </p>
+            <div class="experience">
+                <img alt="HengLong Sun's profile picture" src="/res/IMG_0081.jpg">
+                <p>
+                    Detail-oriented and value-driven Software Developer with experience in full-stack development, cloud computing (AWS), and database management. Skilled in designing and improving web applications and APIs, with a strong record of enhancing system efficiency and user experience. Proficient in Java, C#, Python, JavaScript, and frameworks such as React, Spring Boot, and ASP.NET Core. A quick learner with strong problem-solving abilities, leadership experience, and a passion for building scalable, user-friendly solutions that create lasting impact and drive efficiency.
+                </p>
+            </div>
         </div>
         <a class="scroll-link" href="#skills">
             <div id="mouse-scroll">
