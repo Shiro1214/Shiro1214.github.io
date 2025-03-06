@@ -256,12 +256,9 @@ body,html {
   
 /* Skills section styles */
  .about{
-    border: thin solid #333232;
     padding: 1rem;
-    border-radius: 1rem;
-    box-shadow: 0 0 10px rgba(212, 197, 197, 0.2);
  }
-#about-me h2 {
+  #about-me h2 {
     font-size: 2rem;
     font-weight: bold;
     margin-bottom: 1rem;
