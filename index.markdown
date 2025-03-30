@@ -284,6 +284,38 @@ permalink: /
             <br>
             <div class="project-card">
                 <div class="project-card-header">
+                    <iframe src="https://www.youtube.com/embed/wydd8uIgWJY?si=C-MFibXXXLcXZ6og" title="wWorkout Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+                <div class="project-card-body">
+                    <h3 class="project-title">wWorkout</h3>
+                    <p class="project-description">I built this serverless app to create a platform for beginner gym-goer to find a friend and start their gym journey easily without having to deal with financial commitment of coaching or trials and errors process. </p>
+                    <div class="project-tech">
+                        <span>Serverless architecture</span>
+                        <span>AWS Lambda</span>
+                        <span>AWS Gateway API</span>
+                        <span>Dynamo DB</span>
+                        <span>AWS SNS</span>
+                        <span>AWS SQS</span>
+                        <span>AWS Eventbridge</span>
+                        <span>AWS S3</span>
+                        <span>AWS Amplify</span>
+                        <span>AWS Secret Manager</span>
+                    </div>
+                </div>
+            </div>
+        <a class="scroll-link" href="#project10">
+            <div id="mouse-scroll">
+                <div>
+                    <span class="down-arrow-1"></span>
+                    <span class="down-arrow-2"></span>
+                    <span class="down-arrow-3"></span>
+                </div>
+            </div>
+        </a>
+    </section>
+    <section id="project10" class="hidden">  
+        <div class="project-card">
+                <div class="project-card-header">
                     <iframe src="https://www.youtube.com/embed/q5vhKS_4aD8?si=EH8B5zHLoMFW_sVL" title="Quick Maikai Points Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div class="project-card-body">
