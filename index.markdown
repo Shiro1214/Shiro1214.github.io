@@ -303,6 +303,37 @@ permalink: /
                     </div>
                 </div>
             </div>
+        <a class="scroll-link" href="#project11">
+            <div id="mouse-scroll">
+                <div>
+                    <span class="down-arrow-1"></span>
+                    <span class="down-arrow-2"></span>
+                    <span class="down-arrow-3"></span>
+                </div>
+            </div>
+        </a>
+    </section>
+    <section id="project11" class="hidden">  
+        <div class="project-card">
+            <div class="project-card-header">
+                <img src="res/logs.png" alt="Log display">
+                <img src="res/logs1.png" alt="Log search">
+            </div>
+            <div class="project-card-body">
+                <h3 class="project-title">Dashboard Logs</h3>
+                <p class="project-description">A project built for Enterprise Information System department internal usage to view docker logs for application running in a remote server without having to login to the server.</p>
+                <div class="project-tech">
+                    <span>React JS</span>
+                    <span>React MUI</span>
+                    <span>ASP.NET Core</span>
+                    <span>REST API</span>
+                    <span>C#</span>
+                    <span>Docker</span>
+                    <span>Algorithm</span>
+                    <span>Full-stack</span>
+                </div>
+            </div>
+        </div>
         <a class="scroll-link" href="#project10">
             <div id="mouse-scroll">
                 <div>
