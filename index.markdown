@@ -316,7 +316,6 @@ permalink: /
     <section id="project11" class="hidden">  
         <div class="project-card">
             <div class="project-card-header">
-                <img src="res/logs.png" alt="Log display">
                 <img src="res/logs1.png" alt="Log search">
             </div>
             <div class="project-card-body">
