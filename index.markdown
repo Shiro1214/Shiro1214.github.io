@@ -315,10 +315,10 @@ permalink: /
     </section>
     <section id="project11" class="hidden">  
         <div class="project-card">
-            <div class="project-card-header">
-                <img src="res/logs1.png" alt="Log search">
-            </div>
-            <div class="project-card-body">
+                <div class="project-card-header">
+                    <iframe src="https://www.youtube.com/embed/Y06Gc3MKd4c?si=-rl0xgD3E_WalFYP" title="Dashboard Log Viewer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+                <div class="project-card-body">
                 <h3 class="project-title">Dashboard Logs</h3>
                 <p class="project-description">A project built for Enterprise Information System department internal usage to view docker logs for application running in a remote server without having to login to the server.</p>
                 <div class="project-tech">
@@ -332,7 +332,7 @@ permalink: /
                     <span>Full-stack</span>
                 </div>
             </div>
-        </div>
+            </div>
         <a class="scroll-link" href="#project10">
             <div id="mouse-scroll">
                 <div>
