@@ -390,6 +390,10 @@ body,html {
     object-fit:scale-down;
     object-position: center;
   }
+
+  .project-card-header img:hover{
+    scale: 5;
+  }
   .project-title {
     margin-top: 0;
     margin-bottom: 16px;
